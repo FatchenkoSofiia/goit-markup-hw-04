@@ -679,7 +679,7 @@ svg {
     transform: translateY(0%);
 }
 
-.portfolio-card-link:hover {
+.portfolio-card-link:focus {
     transform: translateY(0%);
 }
 
@@ -762,6 +762,6 @@ svg {
     background-color: #4d5ae5;
 }
 
-.portfolio-description:focus {
+.portfolio-card-link.link:focus .portfolio-description {
     transform: translateY(0%);
 }
