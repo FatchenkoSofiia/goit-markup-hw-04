@@ -718,11 +718,6 @@ svg {
     margin-right: 0;
 }
 
-.portfolio-card-link.link {
-    display: flex;
-    flex-direction: column;
-}
-
 .img-wrapper {
     width: calc((100% - 2 * 24) / 3);
     position: relative;
